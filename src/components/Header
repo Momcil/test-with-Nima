@@ -1,0 +1,12 @@
+import styled from "styled-components"
+
+const Header = () => {
+    type NewType = a
+
+    return (
+        <h1>
+            <async (params:type) => {
+                
+            } href="#" >
+        </h1>)
+}
